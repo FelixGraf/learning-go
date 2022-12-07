@@ -17,4 +17,7 @@ website.
 
 ## Reading
 
+This section contains links to articles and blog posts that I found while learning Go and I would like to read.
+
 - [ ] [Developing and publishing modules](https://go.dev/doc/modules/developing)
+- [ ] [Managing dependencies](https://go.dev/doc/modules/managing-dependencies#naming_module)
