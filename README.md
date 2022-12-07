@@ -14,3 +14,7 @@ website.
 | [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)     | Introduces the basics of writing a RESTful web service API with Go and the Gin Web Framework.                                                                                    | WIP                                      | ❌      |
 | [Getting started with generics](https://go.dev/doc/tutorial/generics)                       | Introduces the basics of generics in Go. With generics, you can declare and use functions or types that are written to work with any of a set of types provided by calling code. | WIP                                      | ❌      |
 | [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)                            | Introduces the basics of fuzzing in Go. Fuzzing can generate inputs to your tests that can catch edge cases and security issues that you may have missed.                        | WIP                                      | ❌      |
+
+## Reading
+
+- [ ] [Developing and publishing modules](https://go.dev/doc/modules/developing)
